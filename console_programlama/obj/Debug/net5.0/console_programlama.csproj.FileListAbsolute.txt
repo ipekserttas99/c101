@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\c101\console_programlama\bin\Debug\net5.0\console_programlama.exe
+C:\Users\Acer\Desktop\c101\console_programlama\bin\Debug\net5.0\console_programlama.deps.json
+C:\Users\Acer\Desktop\c101\console_programlama\bin\Debug\net5.0\console_programlama.runtimeconfig.json
+C:\Users\Acer\Desktop\c101\console_programlama\bin\Debug\net5.0\console_programlama.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\c101\console_programlama\bin\Debug\net5.0\console_programlama.dll
+C:\Users\Acer\Desktop\c101\console_programlama\bin\Debug\net5.0\ref\console_programlama.dll
+C:\Users\Acer\Desktop\c101\console_programlama\bin\Debug\net5.0\console_programlama.pdb
+C:\Users\Acer\Desktop\c101\console_programlama\obj\Debug\net5.0\console_programlama.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\c101\console_programlama\obj\Debug\net5.0\console_programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\c101\console_programlama\obj\Debug\net5.0\console_programlama.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\c101\console_programlama\obj\Debug\net5.0\console_programlama.AssemblyInfo.cs
+C:\Users\Acer\Desktop\c101\console_programlama\obj\Debug\net5.0\console_programlama.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\c101\console_programlama\obj\Debug\net5.0\console_programlama.dll
+C:\Users\Acer\Desktop\c101\console_programlama\obj\Debug\net5.0\ref\console_programlama.dll
+C:\Users\Acer\Desktop\c101\console_programlama\obj\Debug\net5.0\console_programlama.pdb
+C:\Users\Acer\Desktop\c101\console_programlama\obj\Debug\net5.0\console_programlama.genruntimeconfig.cache

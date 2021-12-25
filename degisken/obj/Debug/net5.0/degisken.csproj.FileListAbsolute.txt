@@ -1,0 +1,5 @@
+C:\Users\Acer\Desktop\c101\degisken\obj\Debug\net5.0\degisken.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\c101\degisken\obj\Debug\net5.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\c101\degisken\obj\Debug\net5.0\degisken.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\c101\degisken\obj\Debug\net5.0\degisken.AssemblyInfo.cs
+C:\Users\Acer\Desktop\c101\degisken\obj\Debug\net5.0\degisken.csproj.CoreCompileInputs.cache
